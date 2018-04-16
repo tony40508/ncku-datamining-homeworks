@@ -27,6 +27,7 @@ NCKU-DataMining-Homeworks
 > The upper bound of generalization at node t: eupper(N, e, α)<br>
 > *  N: the number of training instances classified by node t.<br>
 > * n: the number of misclassifications at node t.<br>
-> * e: error rate at node t (e = n / N)
+> * e: error rate at node t (e = n / N)<br>
+> * [Confidence interval](http://people.stern.nyu.edu/gsimon/Pamphlets/ConfidenceIntervalCollection16APR08.pdf)
 
 ======================================================================================
