@@ -22,6 +22,8 @@ NCKU-DataMining-Homeworks
 * (a) Perform equal-width with ten bins, equal-frequency with ten bins, and the entropy-based discretization on the continuous attributes. Clearly specify the intervals of a discretized attribute.
 * (b) For each discretization method, perform forward and backward selection to find an attribute subset for classification. Clearly specify the chosen attribute and the goodness of the attribute subset in each iteration.
 * (c) Discuss the results obtained in (b).
+*  [Comparative Analysis of Supervised and Unsupervised
+Discretization Techniques](https://www.researchgate.net/profile/Rajashree_Dash/publication/266058863_Comparative_Analysis_of_Supervised_and_Unsupervised_Discretization_Techniques/links/55727c6b08aeacff1ffacde8/Comparative-Analysis-of-Supervised-and-Unsupervised-Discretization-Techniques.pdf)
 
 ### 2. Prove equation of estimating statistical bounds
 > The upper bound of generalization at node t: eupper(N, e, α)<br>
