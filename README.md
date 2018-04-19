@@ -32,4 +32,29 @@ Discretization Techniques](https://www.researchgate.net/profile/Rajashree_Dash/p
 > * e: error rate at node t (e = n / N)<br>
 > * [Confidence interval](http://people.stern.nyu.edu/gsimon/Pamphlets/ConfidenceIntervalCollection16APR08.pdf)
 
+### 3. Use the data shown in table to grow a decision tree by the gain ratio. (unpruned)
+
+| Customer ID | Gender| Car Type | 
+| :---:       | :---: | :---:    |
+| 1           | M     | Family   |
+| 2           | M     | Sports   |
+| 3           | M     | Sports   |
+| 4           | M     | Sports   |
+| 5           | M     | Sports   |
+| 6           | M     | Sports   |
+| 7           | F     | Sports   |
+| 8           | F     | Sports   |
+| 9           | F     | Sports   |
+| 10          | F     | Luxury   |
+| 11          | M     | Family   |
+| 12          | M     | Family   |
+| 13          | M     | Family   |
+| 14          | M     | Luxury   |
+| 15          | F     | Luxury   |
+| 16          | F     | Luxury   |
+| 17          | F     | Luxury   |
+| 18          | F     | Luxury   |
+| 19          | F     | Luxury   |
+| 20          | F     | Luxury   |
+
 ======================================================================================
