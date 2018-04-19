@@ -36,8 +36,8 @@ Discretization Techniques](https://www.researchgate.net/profile/Rajashree_Dash/p
 
 | Customer ID | Gender| Car Type | 
 | :---:       | :---: | :---:    |
-| 1           | M     | Family   |
-| 2           | M     | Sports   |
+| 1           | M     | Family   |
+| 2           | M     | Sports   |
 | 3           | M     | Sports   |
 | 4           | M     | Sports   |
 | 5           | M     | Sports   |
