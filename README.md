@@ -34,27 +34,27 @@ Discretization Techniques](https://www.researchgate.net/profile/Rajashree_Dash/p
 
 ### 3. Use the data shown in table to grow a decision tree by the gain ratio. (unpruned)
 
-| Customer ID | Gender| Car Type | Shirt Size  |
-| :---:       | :---: | :---:    | :---:       |
-| 1           | M     | Family   | Small       |
-| 2           | M     | Sports   | Medium      |
-| 3           | M     | Sports   | Medium      |
-| 4           | M     | Sports   | Large       |
-| 5           | M     | Sports   | Extra Large |
-| 6           | M     | Sports   | Extra Large |
-| 7           | F     | Sports   | Small       |
-| 8           | F     | Sports   | Small       |
-| 9           | F     | Sports   | Medium      |
-| 10          | F     | Luxury   | Large       |
-| 11          | M     | Family   | Large       |
-| 12          | M     | Family   | Extra Large |
-| 13          | M     | Family   | Medium      |
-| 14          | M     | Luxury   | Extra Large |
-| 15          | F     | Luxury   | Small       |
-| 16          | F     | Luxury   | Small       |
-| 17          | F     | Luxury   | Medium      |
-| 18          | F     | Luxury   | Medium      |
-| 19          | F     | Luxury   | Medium      |
-| 20          | F     | Luxury   | Large       |
+| Customer ID | Gender| Car Type | Shirt Size  | Class |
+| :---:       | :---: | :---:    | :---:       | :---: |
+| 1           | M     | Family   | Small       | C0    |
+| 2           | M     | Sports   | Medium      | C0    |
+| 3           | M     | Sports   | Medium      | C0    |
+| 4           | M     | Sports   | Large       | C0    |
+| 5           | M     | Sports   | Extra Large | C0    |
+| 6           | M     | Sports   | Extra Large | C0    |
+| 7           | F     | Sports   | Small       | C0    |
+| 8           | F     | Sports   | Small       | C0    |
+| 9           | F     | Sports   | Medium      | C0    |
+| 10          | F     | Luxury   | Large       | C0    |
+| 11          | M     | Family   | Large       | C1    |
+| 12          | M     | Family   | Extra Large | C1    |
+| 13          | M     | Family   | Medium      | C1    |
+| 14          | M     | Luxury   | Extra Large | C1    |
+| 15          | F     | Luxury   | Small       | C1    |
+| 16          | F     | Luxury   | Small       | C1    |
+| 17          | F     | Luxury   | Medium      | C1    |
+| 18          | F     | Luxury   | Medium      | C1    |
+| 19          | F     | Luxury   | Medium      | C1    |
+| 20          | F     | Luxury   | Large       | C1    |
 
 ======================================================================================
