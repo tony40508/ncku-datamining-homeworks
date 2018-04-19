@@ -27,10 +27,10 @@ Discretization Techniques](https://www.researchgate.net/profile/Rajashree_Dash/p
 
 ### 2. Prove equation of estimating statistical bounds
 > The upper bound of generalization at node t: eupper(N, e, α)<br>
-> *  N: the number of training instances classified by node t.<br>
-> * n: the number of misclassifications at node t.<br>
-> * e: error rate at node t (e = n / N)<br>
-> * [Confidence interval](http://people.stern.nyu.edu/gsimon/Pamphlets/ConfidenceIntervalCollection16APR08.pdf)
+*  N: the number of training instances classified by node t.<br>
+* n: the number of misclassifications at node t.<br>
+* e: error rate at node t (e = n / N)<br>
+* [Confidence interval](http://people.stern.nyu.edu/gsimon/Pamphlets/ConfidenceIntervalCollection16APR08.pdf)
 
 ### 3. Use the data shown in table to grow a decision tree by the gain ratio. (unpruned)
 
