@@ -58,3 +58,12 @@ Discretization Techniques](https://www.researchgate.net/profile/Rajashree_Dash/p
 | 20          | F     | Luxury   | Large       | C1    |
 
 ======================================================================================
+
+## Homework assignment #3
+### 1.
+### 2.
+### 3. As addressed in Dietterich (1998), the k accuracies obtained from k-fold cross validation for a data set are not independent because any pair of training sets are overlap.<br>
+### Argue whether you agree with this statement or not.
+* [Approximate Statistical Tests for Comparing. Supervised Classification Learning Algorithms](http://sci2s.ugr.es/keel/pdf/algorithm/articulo/dietterich1998.pdf)
+
+
