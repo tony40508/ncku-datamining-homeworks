@@ -2,6 +2,9 @@
 ### 1. Consider data set 'ecoli.txt' to perform the following tasks.
 
 * (a) Perform naive Bayesian classifier to classify instances when continous attributes are assumed to be normally distributed or transformed by equal-width with ten bins. equal-frequency with ten bins, or the entropy-based discretization. The evaluation method is 5-fold cross validation.
+
+* (b) Discuss the result obtained in (a)
+
 ### 2. When the number of folds equals the number of instances in a data set, it is called leave-one-out cross validation. Propose a method to compare the accuracies of two classification algorithms evaluated by leave-one-out cross validation.
 
 * [Performance evaluation of classification algorithms by k-fold
