@@ -9,4 +9,5 @@
 ### 3. Write a summary report for the paper, and hand in the report no later than the due date. <br>
 #### The report must include:
 * (a) A table of content of the report.
+* (b) The motivation of the paper.
 
