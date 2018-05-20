@@ -12,3 +12,5 @@
 * (b) The motivation of the paper.
 * (c) The techniques used or discussed in the paper.
 * (d) The contributions of the paper.
+* (e) Discuss whether the results of the paper are out of date.
+* (f) Discuss whether it is possible to improve the results of paper.
