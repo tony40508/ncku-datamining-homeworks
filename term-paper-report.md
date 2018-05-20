@@ -10,4 +10,5 @@
 #### The report must include:
 * (a) A table of content of the report.
 * (b) The motivation of the paper.
+* (c) The techniques used or discussed in the paper.
 
