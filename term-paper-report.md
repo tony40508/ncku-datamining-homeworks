@@ -11,4 +11,4 @@
 * (a) A table of content of the report.
 * (b) The motivation of the paper.
 * (c) The techniques used or discussed in the paper.
-
+* (d) The contributions of the paper.
