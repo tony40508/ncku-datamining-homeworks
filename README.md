@@ -100,3 +100,6 @@ in k-Fold Cross Validation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 * (d) The contributions of the paper.
 * (e) Discuss whether the results of the paper are out of date.
 * (f) Discuss whether it is possible to improve the results of paper.
+
+### 4. The report with a table of content must be typed and well-formatted. <br>
+> When the paper for this report is changed, please remember to keep me informed.
