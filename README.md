@@ -88,3 +88,6 @@ in k-Fold Cross Validation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 ### 1. Choose a paper that is relevant to data mining and published in a journal. 
 > The publishing year of the paper must be larger than 2007.
 
+### 2. Hand in the first page of the paper you choose on 5/16. 
+> Note that the abstract on the first page should reveal the relevance for the paper to data mining <br>
+[Density Conscious Subspace Clustering for High-Dimensional Data](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=79E6F96A17D5CBB98C476D38494F3E07?doi=10.1.1.206.3789&rep=rep1&type=pdf)
