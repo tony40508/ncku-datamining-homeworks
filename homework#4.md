@@ -6,3 +6,5 @@
 * (b) Draw the ROC curve for each possible combination of k and the positive class value, and **compute the area under the curve.**
 
 * (c) Discuss the result obtained in (b).
+
+### 2. Identify the frequent itemsets for suffix 'd' by using FP-tree given in Fiqure 6.24. Show all necessary conditional FP-tree as the example given in Figure 6.27.
