@@ -7,4 +7,5 @@
 
 * (c) Discuss the result obtained in (b).
 
-### 2. Identify the frequent itemsets for suffix 'd' by using FP-tree given in Fiqure 6.24. Show all necessary conditional FP-tree as the example given in Figure 6.27.
+### 2. Identify the frequent itemsets for suffix 'd' by using FP-tree given in Fiqure 6.24. <br>
+> Show all necessary conditional FP-tree as the example given in Figure 6.27.
